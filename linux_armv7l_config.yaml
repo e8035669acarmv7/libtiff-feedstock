@@ -19,9 +19,9 @@ docker_image:
 lerc:
 - '4'
 libdeflate:
-- '1.18'
+- '1.20'
 libjpeg_turbo:
-- 2.1.5
+- '3'
 libwebp_base:
 - '1'
 target_platform:
